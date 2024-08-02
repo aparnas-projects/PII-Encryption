@@ -1,0 +1,5 @@
+pandas
+hashlib
+faker
+cryptography
+MySQLdb
